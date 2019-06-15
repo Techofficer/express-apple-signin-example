@@ -1,0 +1,6 @@
+{
+	"client_id": "com.gotechmakers.auth.client",
+	"redirect_uri": "https://apple-auth.gotechmakers.com/auth/apple/callback",
+	"team_id": "APPLE_TEAM_ID",
+	"key_identifier": "RBXXXXXXXX"
+}
