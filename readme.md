@@ -11,6 +11,7 @@ https://developer.apple.com/sign-in-with-apple/get-started/) related to "Sign in
 5. Create a new service / client id here https://developer.apple.com/account/resources/identifiers/serviceId/add/
 
 More details about configuration can be found in [passport-appleid](https://github.com/Techofficer/passport-apple) repository.
+Also checkout this cheat sheet https://developer.okta.com/blog/2019/06/04/what-the-heck-is-sign-in-with-apple      
 
 ## Instructions
 
