@@ -8,8 +8,10 @@ This example demonstrates how to use Express  and Passport to authenticate users
 https://developer.apple.com/sign-in-with-apple/get-started/) related to "Sign in with Apple" feature.
 3. You should create App ID and Service ID in your Apple Developer Account.
 4. You should generate private key for your Service ID in your Apple Developer Account.
+5. Create a new service / client id here https://developer.apple.com/account/resources/identifiers/serviceId/add/
 
 More details about configuration can be found in [passport-appleid](https://github.com/Techofficer/passport-apple) repository.
+Also checkout this cheat sheet https://developer.okta.com/blog/2019/06/04/what-the-heck-is-sign-in-with-apple      
 
 ## Instructions
 
